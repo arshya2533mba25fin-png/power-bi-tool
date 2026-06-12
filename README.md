@@ -6,9 +6,7 @@ An interactive Power BI dashboard designed to evaluate loan applications, assess
 
 ## 🖥️ Dashboard Overview
 
-![Dashboard Screenshot](./path/to/your/image/Screenshot_(31).png)
-
-> **💡 Note for Users:** Replace `./path/to/your/image/Screenshot_(31).png` with the actual relative path where you save this screenshot inside your GitHub repository (e.g., `assets/dashboard_screenshot.png`).
+<img src="https://i.ibb.co/6R5wYc9p/Screenshot-31.png" alt="Power BI Dashboard Screenshot" width="100%">
 
 ---
 

@@ -5,8 +5,7 @@ An interactive Power BI dashboard designed to evaluate loan applications, assess
 ---
 
 ## 🖥️ Dashboard Overview
-
-<img src="https://i.ibb.co/6R5wYc9p/Screenshot-31.png" alt="Power BI Dashboard Screenshot" width="100%">
+Screenshot (31).png
 
 ---
 
